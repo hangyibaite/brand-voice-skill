@@ -34,16 +34,15 @@ Pick any combination. Skip categories you don't need.
 brand-voice/
   SKILL.md                    orchestration entry point
   README.md                   this file
+  intake.md                   live-write intake protocol
+  analyze.md                  pattern extraction methodology
   assets/
-    README.md                 instructions for dropping in your samples
+    anti-ai.md                universal banned constructions
+    output-template.md        scaffold for the generated skill
   references/
-    intake.md                 live-write intake protocol
-    analyze.md                pattern extraction methodology
     long-form.md              long-form rules schema
     short-form.md             short-form rules schema
     direct-response.md        direct response rules schema
-    anti-ai.md                universal banned constructions
-    output-template.md        scaffold for the generated skill
     iterate.md                iteration protocol (also baked into generated skill)
 ```
 
